@@ -391,7 +391,7 @@
                     <lottie-player id="gift" src="https://assets4.lottiefiles.com/datafiles/zc3XRzudyWE36ZBJr7PIkkqq0PFIrIBgp4ojqShI/newAnimation.json" background="transparent"  speed="1"  style="width: 350px;height: 350px;" loop autoplay></lottie-player>
                     <lottie-player id="cat" src="https://assets9.lottiefiles.com/packages/lf20_7coErG.json" background="transparent"  speed="1"  style="width: 350px;height: 350px; display: none;" loop autoplay></lottie-player>
                     <div class="w-100">
-                        <p id="pulang">may god grant you all the wishes that you want<br><span>its fun being with you friend</span><br><span>Love you!</span> 
+                        <p id="pulang">may god grant you all the wishes that you want<br><span>its fun being with you friend</span><br><span>Love you swiraat, You are such a treasure!</span> 
                             <svg id="Capa_1" enable-background="new 0 0 512 512" height="30" viewBox="0 0 512 512" width="30" xmlns="http://www.w3.org/2000/svg">
                                 <g>
                                     <g>
@@ -464,7 +464,7 @@
                 });
 https://mail.google.com/mail/u/0/#inbox/FMfcgzGpGwrFQtfFcKCXqQtwSwwDtVrT?compose=new
                 $(document).on("click", ".send-greet", function(){
-                    window.location.href = "https://"
+                    window.location.href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpDwPmbnjKvQVcpJmFlcTBkBLTzxcjZtXMpFNQDfmnTfffRgkCBCSjnGCqRHHCnKLNtVzr"
                 });
             });
         </script>
